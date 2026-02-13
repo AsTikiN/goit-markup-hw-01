@@ -1,0 +1,10 @@
+{
+  "name": "goit-markup-hw-01",
+  "private": true,
+  "scripts": {
+    "format": "prettier --write \"**/*.{html,css,js,json}\""
+  },
+  "devDependencies": {
+    "prettier": "^3.2.5"
+  }
+}
